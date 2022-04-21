@@ -1,0 +1,21 @@
+# ninja log v5
+0	349	6721391471841203	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	a110991e8e6dccd
+6655	6817	6721391536462018	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	5f18a6ed21debfb8
+0	349	6721391471841203	C:/Users/Igor Makarevich/CLionProjects/Homework 30-2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	a110991e8e6dccd
+350	6655	6721391534837192	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	68a568ed32aee738
+7142	7219	6721391540578397	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	3ef08bc077e8c9b1
+6817	6903	6721391537409432	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	f48f707c161ee0a8
+7220	7348	6721391541842547	CMakeFiles/curl-populate-complete	90e2fe12db162c84
+6817	6903	6721391537409432	C:/Users/Igor Makarevich/CLionProjects/Homework 30-2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	f48f707c161ee0a8
+350	6655	6721391534837192	C:/Users/Igor Makarevich/CLionProjects/Homework 30-2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	68a568ed32aee738
+6983	7062	6721391538998414	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	9204048a014c0dfd
+6655	6817	6721391536462018	C:/Users/Igor Makarevich/CLionProjects/Homework 30-2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	5f18a6ed21debfb8
+6904	6983	6721391538208945	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	368a84a34168fae6
+6904	6983	6721391538208945	C:/Users/Igor Makarevich/CLionProjects/Homework 30-2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	368a84a34168fae6
+6983	7062	6721391538998414	C:/Users/Igor Makarevich/CLionProjects/Homework 30-2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	9204048a014c0dfd
+7062	7142	6721391539793830	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	1ca8ce435d803971
+7062	7142	6721391539793830	C:/Users/Igor Makarevich/CLionProjects/Homework 30-2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	1ca8ce435d803971
+7142	7219	6721391540578397	C:/Users/Igor Makarevich/CLionProjects/Homework 30-2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	3ef08bc077e8c9b1
+7220	7348	6721391541842547	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	90e2fe12db162c84
+7220	7348	6721391541842547	C:/Users/Igor Makarevich/CLionProjects/Homework 30-2/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete	90e2fe12db162c84
+7220	7348	6721391541842547	C:/Users/Igor Makarevich/CLionProjects/Homework 30-2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	90e2fe12db162c84
